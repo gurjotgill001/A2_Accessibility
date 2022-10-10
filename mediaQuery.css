@@ -1,0 +1,61 @@
+@media  (min-width: 401px) and (max-width: 950px){
+    
+    .line h1{
+        width:100%;
+    }
+    .features{
+        font-size: 14pt;
+        width:90%;
+        height: 70%;
+        margin: -10px auto;
+        padding-top:10px;
+        padding-left: 20px;
+        font-size: 20pt;
+    } 
+    .onelist{
+        margin-left: 10%;
+        padding: 10px;
+    }
+    .twolist{
+        margin-left: 25%;
+        padding: 20px;
+    }
+    .threelist{
+        margin-left: 40%;
+        padding: 30px;
+    }
+
+	#aside{
+		width:100%;
+	}
+    #aside img{
+        width: 70%;
+        height:400px;
+        margin-left: 13%;
+    }
+	#food{
+		width:100%;
+	}
+    .orders{
+		width:100%;
+		border:none;
+		margin:5px 0;
+	}
+	.orders p{
+		text-align:center;
+		padding:5px auto;
+	}
+    .orders img{
+        width:80%;
+        height:400px;
+        margin-left: 10%;
+    }
+    .main_menu{
+        width:100%;
+        top:-20px;
+    }
+    .sub_menu{
+        width:20%;
+        margin: 20px 10px;
+    }
+}
